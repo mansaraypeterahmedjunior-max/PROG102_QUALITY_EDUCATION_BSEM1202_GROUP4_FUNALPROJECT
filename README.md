@@ -1,6 +1,0 @@
-﻿# PROG102_QUALITY_EDUCATION_BSEM1202_GROUP4_FINALPROJECT
-
-# Our final project (group 4) we created an application called SIERRA_ILLITERACY which is focused on teaching, maintaining and  making education accessible to illiterate,students and youth of our community
-
-# this is the accessible link to view our application in figma 
-https://www.figma.com/design/aGeDoUXFW45Krd6m6tBP9Z/SierraLiteracy?node-id=0-1&m=dev&t=U7FMJ4eybUpzVYfA-1

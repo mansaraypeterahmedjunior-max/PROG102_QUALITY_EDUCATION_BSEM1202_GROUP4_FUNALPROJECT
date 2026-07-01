@@ -1,9 +1,8 @@
 # 📚 SDG 4: Quality Education Mobile Application
 
 A Software Engineering project that demonstrates the design and development of a mobile application supporting **Sustainable Development Goal 4 (SDG 4): Quality Education** using the **Software Development Life Cycle (SDLC)**. The application aims to improve access to educational resources and promote inclusive, equitable, and lifelong learning opportunities. :contentReference[oaicite:0]{index=0}
-
----
-
+ 
+ 
 ## 📖 Project Overview
 
 This project applies Software Engineering principles to design a mobile learning platform that enables users to:
@@ -23,8 +22,7 @@ The project follows every stage of the Software Development Life Cycle (SDLC), i
 - Testing
 - Deployment
 - Maintenance :contentReference[oaicite:1]{index=1}
-
----
+ 
 
 ## 🎯 Objectives
 
@@ -35,8 +33,7 @@ The application is designed to:
 - Promote educational inclusion
 - Provide secure and reliable educational services
 - Support SDG 4: Quality Education
-
----
+ 
 
 ## 🚀 Features
 
@@ -73,8 +70,7 @@ The system is organized into multiple components including:
 - Central Database
 
 These components work together to provide a secure, scalable, and maintainable educational platform. :contentReference[oaicite:3]{index=3}
-
----
+ 
 
 ## 🔄 Software Development Life Cycle (SDLC)
 
@@ -87,8 +83,7 @@ These components work together to provide a secure, scalable, and maintainable e
 | Testing | Verify functionality, usability, and security |
 | Deployment | Release the application to users |
 | Maintenance | Update content, fix bugs, and improve features |
-
----
+ 
 
 ## 🛠️ Technologies
 
@@ -97,8 +92,7 @@ These components work together to provide a secure, scalable, and maintainable e
 - SDLC Methodology
 - UML Modeling
 - System Architecture Design
-
----
+ 
 
 ## 📂 Project Structure
 

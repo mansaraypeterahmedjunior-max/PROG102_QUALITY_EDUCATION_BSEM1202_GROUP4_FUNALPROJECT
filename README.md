@@ -2,7 +2,7 @@
 
 A Software Engineering project that demonstrates the design and development of a mobile application supporting **Sustainable Development Goal 4 (SDG 4): Quality Education** using the **Software Development Life Cycle (SDLC)**. The application aims to improve access to educational resources and promote inclusive, equitable, and lifelong learning opportunities. :contentReference[oaicite:0]{index=0}
  
- 
+
 ## 📖 Project Overview
 
 This project applies Software Engineering principles to design a mobile learning platform that enables users to:
@@ -110,14 +110,12 @@ These components work together to provide a secure, scalable, and maintainable e
 ├── Images
 └── README.md
 ```
-
----
+ 
 
 ## 📊 SDG Focus
 
 This project supports **United Nations Sustainable Development Goal 4 (Quality Education)** by providing a digital platform that enhances learning opportunities through technology.
-
----
+ 
 
 ## 🔮 Future Improvements
 
@@ -129,7 +127,7 @@ Future versions of the application may include:
 - Advanced student performance analytics
 - Enhanced accessibility features :contentReference[oaicite:4]{index=4}
 
----
+
 
 ## 📚 References
 
@@ -138,15 +136,14 @@ Future versions of the application may include:
 - Sommerville – *Software Engineering*
 - United Nations SDG 4 Documentation
 - UNESCO Global Education Monitoring Report
-- World Bank Education Reports :contentReference[oaicite:5]{index=5}
+- World Bank Education Reports :contentReference[oaicite:5]{index=5}git status#
 
----
 
+ 
 ## 👨‍💻 Author
 
 ** Michael Hindolo Coker
 ** Peter A Mansaray
 ** gabriella kallay
----
-
+ 
 https://www.figma.com/design/aGeDoUXFW45Krd6m6tBP9Z/SierraLiteracy?node-id=0-1&m=dev&t=U7FMJ4eybUpzVYfA-1
